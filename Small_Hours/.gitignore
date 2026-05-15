@@ -1,5 +1,20 @@
+# Unreal Engine
 Saved/
 Intermediate/
 Binaries/
 DerivedDataCache/
+Build/
 .vs/
+
+# Large content
+Content/Fab/
+Content/Characters/
+Content/CrosshairFreePack/
+Content/LevelPrototyping/
+Content/PCKeyboardMouseIconPack/
+Content/NY_PhotoFrame/
+Content/VegaDesk/
+Content/Binder/
+Content/__ExternalActors__/
+Content/__ExternalObjects__/
+Content/FirstPerson/
