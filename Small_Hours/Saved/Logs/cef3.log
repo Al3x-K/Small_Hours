@@ -1,7 +1,13 @@
-[39396:27776:0515/160640.642:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[39396:27656:0515/160640.811:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[39396:27776:0515/160640.943:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[39292:30932:0515/160701.861:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8978BAEC79C81E5C45225D2621758EA3 will be ignored
-[31956:37860:0515/160703.541:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-A8297D9828AAA78A7F97CB4976FF7D7E will be ignored
-[29808:6652:0515/160703.810:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[39396:27776:0515/160825.689:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[21064:42644:0515/163238.677:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21064:12536:0515/163239.036:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21064:42644:0515/163239.265:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25664:17312:0515/163256.372:ERROR:backend_impl.cc(989)] Critical error found -8
+[25664:17312:0515/163256.374:WARNING:storage_block-inl.h(138)] Failed data load.
+[25664:17312:0515/163256.375:ERROR:entry_impl.cc(1029)] No file for b2020000
+[25664:17312:0515/163256.377:WARNING:storage_block-inl.h(138)] Failed data load.
+[14364:26632:0515/163257.559:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4FD41C0A7EE3323F1E48BBDC76BB5472 will be ignored
+[14916:21840:0515/163258.786:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-D8CE9306AB8C22F83EBA5CB02EDDDB2D will be ignored
+[28216:27252:0515/163259.130:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[21064:42644:0515/164901.478:ERROR:device_event_log_impl.cc(196)] [16:49:01.417] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[21064:42644:0515/164901.799:ERROR:device_event_log_impl.cc(196)] [16:49:01.524] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[21064:42644:0515/165002.019:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
