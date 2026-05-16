@@ -1,9 +1,20 @@
-2026/05/16-13:53:21.037 6a4c Reusing MANIFEST C:\Users\Asus\OneDrive\Pulpit\Desktop\UNI\YEAR 4\GAME AUDIO IMPLEMENTATION\Small_Hours\Small_Hours\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/16-13:53:21.053 6a4c Recovering log #8
-2026/05/16-13:53:21.067 6a4c Reusing old log C:\Users\Asus\OneDrive\Pulpit\Desktop\UNI\YEAR 4\GAME AUDIO IMPLEMENTATION\Small_Hours\Small_Hours\Saved\webcache_6613\Default\Local Storage\leveldb/000008.log 
-2026/05/16-15:23:38.733 6a4c Level-0 table #11: started
-2026/05/16-15:23:38.753 6a4c Level-0 table #11: 65548 bytes OK
-2026/05/16-15:23:38.758 6a4c Delete type=0 #8
-2026/05/16-15:24:41.843 9890 Level-0 table #13: started
-2026/05/16-15:24:41.858 9890 Level-0 table #13: 69176 bytes OK
-2026/05/16-15:24:41.861 9890 Delete type=0 #10
+2026/05/16-15:54:39.541 2df0 Reusing MANIFEST C:\Users\Asus\OneDrive\Pulpit\Desktop\UNI\YEAR 4\GAME AUDIO IMPLEMENTATION\Small_Hours\Small_Hours\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/16-15:54:39.559 2df0 Recovering log #12
+2026/05/16-15:54:39.572 2df0 Reusing old log C:\Users\Asus\OneDrive\Pulpit\Desktop\UNI\YEAR 4\GAME AUDIO IMPLEMENTATION\Small_Hours\Small_Hours\Saved\webcache_6613\Default\Local Storage\leveldb/000012.log 
+2026/05/16-15:55:03.732 1864 Level-0 table #16: started
+2026/05/16-15:55:03.745 1864 Level-0 table #16: 65247 bytes OK
+2026/05/16-15:55:03.748 1864 Delete type=0 #12
+2026/05/16-15:55:03.749 1864 Compacting 4@0 + 0@1 files
+2026/05/16-15:55:03.763 1864 Generated table #17@0: 13 keys, 23459 bytes
+2026/05/16-15:55:03.763 1864 Compacted 4@0 + 0@1 files => 23459 bytes
+2026/05/16-15:55:03.764 1864 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/16-15:55:03.766 1864 Delete type=2 #7
+2026/05/16-15:55:03.766 1864 Delete type=2 #11
+2026/05/16-15:55:03.766 1864 Delete type=2 #13
+2026/05/16-15:55:03.767 1864 Delete type=2 #16
+2026/05/16-20:22:28.850 1864 Level-0 table #19: started
+2026/05/16-20:22:28.871 1864 Level-0 table #19: 68858 bytes OK
+2026/05/16-20:22:28.876 1864 Delete type=0 #15
+2026/05/16-20:26:36.771 1864 Level-0 table #21: started
+2026/05/16-20:26:36.783 1864 Level-0 table #21: 65267 bytes OK
+2026/05/16-20:26:36.785 1864 Delete type=0 #18
