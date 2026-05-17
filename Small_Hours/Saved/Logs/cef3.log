@@ -1,29 +1,21 @@
-[18692:39160:0517/110640.055:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[18692:39160:0517/110640.063:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
-[18692:23092:0517/110640.429:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[18692:39160:0517/110640.619:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[12784:18716:0517/110702.108:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F77BDB7BCB0C1428B169824D40EB2799 will be ignored
-[22564:27208:0517/110703.775:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-093C1A118D5F567E2087A359BED7BE3C will be ignored
-[22888:13608:0517/110704.510:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[22888:1696:0517/130534.985:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+[13396:36444:0517/210403.184:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13396:5860:0517/210403.398:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[13396:36444:0517/210403.519:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[39756:18244:0517/210418.250:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8307323FDFFF968B7FBE8060D0743E99 will be ignored
+[19864:39968:0517/210419.248:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-E8D9D8B0158F5D6C02C13F563F7211F2 will be ignored
+[18396:11284:0517/210832.653:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
 C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
 
-[22888:8196:0517/130535.333:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+[18396:36820:0517/210832.938:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
 C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
 C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
 C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
 
-[22888:1696:0517/130535.737:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+[18396:36820:0517/210833.596:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
 C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
 
-[22888:13608:0517/130536.315:ERROR:gl_utils.cc(415)] [.WebGL-00007BD8037F1B00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[22888:13608:0517/130536.330:ERROR:gl_utils.cc(415)] [.WebGL-00007BD8037F1B00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[22888:25748:0517/154453.688:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
-[22888:25748:0517/154453.697:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2129x1284
-[22888:25748:0517/154453.697:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 2x2 to 2129x1284 (100% of ideal size)
-[22888:25748:0517/154453.864:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #23).
-[22888:25748:0517/154453.881:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #23).
-[22888:25748:0517/154453.902:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #23).
-[22888:25748:0517/154453.917:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #23).
-[18692:39160:0517/192801.474:ERROR:device_event_log_impl.cc(196)] [19:28:01.416] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[18692:39160:0517/210038.620:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[18396:23824:0517/210833.653:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[13396:36444:0517/211427.933:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13396:36444:0517/224623.554:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

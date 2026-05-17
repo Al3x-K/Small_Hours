@@ -1,24 +1,20 @@
-2026/05/17-11:06:40.785 3b28 Reusing MANIFEST C:\Users\Asus\OneDrive\Pulpit\Desktop\UNI\YEAR 4\GAME AUDIO IMPLEMENTATION\Small_Hours\Small_Hours\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/17-11:06:40.801 3b28 Recovering log #20
-2026/05/17-11:06:40.813 3b28 Reusing old log C:\Users\Asus\OneDrive\Pulpit\Desktop\UNI\YEAR 4\GAME AUDIO IMPLEMENTATION\Small_Hours\Small_Hours\Saved\webcache_6613\Default\Local Storage\leveldb/000020.log 
-2026/05/17-11:09:14.987 6930 Level-0 table #24: started
-2026/05/17-11:09:15.002 6930 Level-0 table #24: 75141 bytes OK
-2026/05/17-11:09:15.006 6930 Delete type=0 #20
-2026/05/17-13:05:37.892 6930 Level-0 table #26: started
-2026/05/17-13:05:37.909 6930 Level-0 table #26: 72570 bytes OK
-2026/05/17-13:05:37.913 6930 Delete type=0 #23
-2026/05/17-13:05:37.915 6930 Compacting 4@0 + 1@1 files
-2026/05/17-13:05:37.933 6930 Generated table #27@0: 13 keys, 29858 bytes
-2026/05/17-13:05:37.933 6930 Compacted 4@0 + 1@1 files => 29858 bytes
-2026/05/17-13:05:37.934 6930 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/17-13:05:37.937 6930 Delete type=2 #17
-2026/05/17-13:05:37.938 6930 Delete type=2 #19
-2026/05/17-13:05:37.938 6930 Delete type=2 #21
-2026/05/17-13:05:37.938 6930 Delete type=2 #24
-2026/05/17-13:05:37.938 6930 Delete type=2 #26
-2026/05/17-15:44:18.235 6930 Level-0 table #29: started
-2026/05/17-15:44:18.248 6930 Level-0 table #29: 79888 bytes OK
-2026/05/17-15:44:18.252 6930 Delete type=0 #25
-2026/05/17-15:57:13.904 6930 Level-0 table #31: started
-2026/05/17-15:57:13.919 6930 Level-0 table #31: 65032 bytes OK
-2026/05/17-15:57:13.923 6930 Delete type=0 #28
+2026/05/17-21:04:03.689 599c Reusing MANIFEST C:\Users\Asus\OneDrive\Pulpit\Desktop\UNI\YEAR 4\GAME AUDIO IMPLEMENTATION\Small_Hours\Small_Hours\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/17-21:04:03.699 599c Recovering log #30
+2026/05/17-21:04:03.700 599c Level-0 table #33: started
+2026/05/17-21:04:03.715 599c Level-0 table #33: 63501 bytes OK
+2026/05/17-21:04:03.730 599c Delete type=0 #30
+2026/05/17-21:08:16.871 63e0 Level-0 table #36: started
+2026/05/17-21:08:16.889 63e0 Level-0 table #36: 68778 bytes OK
+2026/05/17-21:08:16.892 63e0 Delete type=0 #34
+2026/05/17-21:08:16.894 63e0 Compacting 4@0 + 1@1 files
+2026/05/17-21:08:16.909 63e0 Generated table #37@0: 13 keys, 33426 bytes
+2026/05/17-21:08:16.909 63e0 Compacted 4@0 + 1@1 files => 33426 bytes
+2026/05/17-21:08:16.910 63e0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/17-21:08:16.914 63e0 Delete type=2 #27
+2026/05/17-21:08:16.914 63e0 Delete type=2 #29
+2026/05/17-21:08:16.914 63e0 Delete type=2 #31
+2026/05/17-21:08:16.914 63e0 Delete type=2 #33
+2026/05/17-21:08:16.915 63e0 Delete type=2 #36
+2026/05/17-21:10:18.938 63e0 Level-0 table #39: started
+2026/05/17-21:10:18.956 63e0 Level-0 table #39: 73925 bytes OK
+2026/05/17-21:10:18.960 63e0 Delete type=0 #35
