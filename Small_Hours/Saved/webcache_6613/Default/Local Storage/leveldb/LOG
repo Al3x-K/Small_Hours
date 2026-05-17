@@ -1,3 +1,24 @@
-2026/05/16-22:17:13.226 6b40 Reusing MANIFEST C:\Users\Asus\OneDrive\Pulpit\Desktop\UNI\YEAR 4\GAME AUDIO IMPLEMENTATION\Small_Hours\Small_Hours\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/16-22:17:13.241 6b40 Recovering log #20
-2026/05/16-22:17:13.253 6b40 Reusing old log C:\Users\Asus\OneDrive\Pulpit\Desktop\UNI\YEAR 4\GAME AUDIO IMPLEMENTATION\Small_Hours\Small_Hours\Saved\webcache_6613\Default\Local Storage\leveldb/000020.log 
+2026/05/17-11:06:40.785 3b28 Reusing MANIFEST C:\Users\Asus\OneDrive\Pulpit\Desktop\UNI\YEAR 4\GAME AUDIO IMPLEMENTATION\Small_Hours\Small_Hours\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/17-11:06:40.801 3b28 Recovering log #20
+2026/05/17-11:06:40.813 3b28 Reusing old log C:\Users\Asus\OneDrive\Pulpit\Desktop\UNI\YEAR 4\GAME AUDIO IMPLEMENTATION\Small_Hours\Small_Hours\Saved\webcache_6613\Default\Local Storage\leveldb/000020.log 
+2026/05/17-11:09:14.987 6930 Level-0 table #24: started
+2026/05/17-11:09:15.002 6930 Level-0 table #24: 75141 bytes OK
+2026/05/17-11:09:15.006 6930 Delete type=0 #20
+2026/05/17-13:05:37.892 6930 Level-0 table #26: started
+2026/05/17-13:05:37.909 6930 Level-0 table #26: 72570 bytes OK
+2026/05/17-13:05:37.913 6930 Delete type=0 #23
+2026/05/17-13:05:37.915 6930 Compacting 4@0 + 1@1 files
+2026/05/17-13:05:37.933 6930 Generated table #27@0: 13 keys, 29858 bytes
+2026/05/17-13:05:37.933 6930 Compacted 4@0 + 1@1 files => 29858 bytes
+2026/05/17-13:05:37.934 6930 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/17-13:05:37.937 6930 Delete type=2 #17
+2026/05/17-13:05:37.938 6930 Delete type=2 #19
+2026/05/17-13:05:37.938 6930 Delete type=2 #21
+2026/05/17-13:05:37.938 6930 Delete type=2 #24
+2026/05/17-13:05:37.938 6930 Delete type=2 #26
+2026/05/17-15:44:18.235 6930 Level-0 table #29: started
+2026/05/17-15:44:18.248 6930 Level-0 table #29: 79888 bytes OK
+2026/05/17-15:44:18.252 6930 Delete type=0 #25
+2026/05/17-15:57:13.904 6930 Level-0 table #31: started
+2026/05/17-15:57:13.919 6930 Level-0 table #31: 65032 bytes OK
+2026/05/17-15:57:13.923 6930 Delete type=0 #28

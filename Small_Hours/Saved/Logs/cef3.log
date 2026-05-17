@@ -1,10 +1,29 @@
-[4992:7724:0516/221712.919:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4992:7724:0516/221712.925:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
-[4992:9772:0516/221713.019:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[4992:7724:0516/221713.044:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[13516:40612:0516/221727.937:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5F1FED87EB017C37F0939308A47EAD76 will be ignored
-[20660:25396:0516/221731.608:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-0D864A3252317EC5B110E7D3EB7CCA6F will be ignored
-[33444:28276:0516/224827.038:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
-[33444:28276:0516/224827.039:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2561x1284
-[33444:28276:0516/224827.039:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 2x2 to 2561x1284 (100% of ideal size)
-[4992:7724:0516/233934.160:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[18692:39160:0517/110640.055:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18692:39160:0517/110640.063:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[18692:23092:0517/110640.429:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[18692:39160:0517/110640.619:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12784:18716:0517/110702.108:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F77BDB7BCB0C1428B169824D40EB2799 will be ignored
+[22564:27208:0517/110703.775:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-093C1A118D5F567E2087A359BED7BE3C will be ignored
+[22888:13608:0517/110704.510:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[22888:1696:0517/130534.985:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[22888:8196:0517/130535.333:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[22888:1696:0517/130535.737:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[22888:13608:0517/130536.315:ERROR:gl_utils.cc(415)] [.WebGL-00007BD8037F1B00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[22888:13608:0517/130536.330:ERROR:gl_utils.cc(415)] [.WebGL-00007BD8037F1B00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[22888:25748:0517/154453.688:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
+[22888:25748:0517/154453.697:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2129x1284
+[22888:25748:0517/154453.697:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 2x2 to 2129x1284 (100% of ideal size)
+[22888:25748:0517/154453.864:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #23).
+[22888:25748:0517/154453.881:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #23).
+[22888:25748:0517/154453.902:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #23).
+[22888:25748:0517/154453.917:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #23).
+[18692:39160:0517/192801.474:ERROR:device_event_log_impl.cc(196)] [19:28:01.416] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[18692:39160:0517/210038.620:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
