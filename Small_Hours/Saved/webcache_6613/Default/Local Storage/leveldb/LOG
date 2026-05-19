@@ -1,12 +1,3 @@
-2026/05/18-20:30:42.662 53a8 Reusing MANIFEST C:\Users\Asus\OneDrive\Pulpit\Desktop\UNI\YEAR 4\GAME AUDIO IMPLEMENTATION\Small_Hours\Small_Hours\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/18-20:30:42.677 53a8 Recovering log #63
-2026/05/18-20:30:42.691 53a8 Reusing old log C:\Users\Asus\OneDrive\Pulpit\Desktop\UNI\YEAR 4\GAME AUDIO IMPLEMENTATION\Small_Hours\Small_Hours\Saved\webcache_6613\Default\Local Storage\leveldb/000063.log 
-2026/05/18-22:20:28.766 53a8 Level-0 table #68: started
-2026/05/18-22:20:28.781 53a8 Level-0 table #68: 73464 bytes OK
-2026/05/18-22:20:28.785 53a8 Delete type=0 #63
-2026/05/18-22:22:49.551 6930 Level-0 table #70: started
-2026/05/18-22:22:49.569 6930 Level-0 table #70: 70147 bytes OK
-2026/05/18-22:22:49.572 6930 Delete type=0 #67
-2026/05/18-22:24:28.772 6930 Level-0 table #72: started
-2026/05/18-22:24:28.792 6930 Level-0 table #72: 71099 bytes OK
-2026/05/18-22:24:28.797 6930 Delete type=0 #69
+2026/05/19-00:49:22.070 70c0 Reusing MANIFEST C:\Projects\Small_Hours\Small_Hours\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/19-00:49:22.081 70c0 Recovering log #3
+2026/05/19-00:49:22.085 70c0 Reusing old log C:\Projects\Small_Hours\Small_Hours\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
