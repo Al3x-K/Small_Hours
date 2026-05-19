@@ -1,9 +1,6 @@
-[14120:8648:0519/004921.513:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[14120:29488:0519/004921.846:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[14120:8648:0519/004921.994:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[5168:28548:0519/004934.439:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F296A2D276B5E6623867A29F6E897038 will be ignored
-[30800:19496:0519/004936.540:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-2745AD29501D723F0967036179197A93 will be ignored
-[3152:20920:0519/004936.680:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[14120:8648:0519/005843.361:ERROR:device_event_log_impl.cc(196)] [00:58:43.177] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[14120:8648:0519/005843.361:ERROR:device_event_log_impl.cc(196)] [00:58:43.258] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
-[14120:8648:0519/024935.713:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[34908:1092:0519/231238.257:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[34908:24016:0519/231238.721:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[34908:1092:0519/231238.919:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[34908:1092:0519/231250.594:ERROR:device_event_log_impl.cc(196)] [23:12:50.577] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[1328:11888:0519/231250.838:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-705167762F231431042F9BCA732D3AA2 will be ignored
+[34908:1092:0519/231722.549:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
